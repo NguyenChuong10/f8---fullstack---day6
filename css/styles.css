@@ -154,6 +154,7 @@ input{
 
 .content1 a:hover{
     text-decoration: underline;
+    color: #14485b;
 }
 .content1 img {
     margin-top: 20px;
@@ -257,11 +258,12 @@ input{
 
 .listlink a {
     text-decoration: none;
-    color: #14485b;
+    color: #66909c;
     line-height: 30px;
 }
 .listlink a:hover{
     text-decoration: underline;
+    color: #14485b;
 }
 
 .annouce {
@@ -318,7 +320,6 @@ input{
     color:#17678a;
 }
 
-.footer p:hover > a {
+.footer p > a:hover {
     text-decoration:underline ;
-
 }
