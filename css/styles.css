@@ -23,9 +23,6 @@ input{
     background-color: #cacaca;
     
 }
-
-
-
 .header .inner{
     display: flex;
     height: 102px;
@@ -46,8 +43,6 @@ input{
 .header .nav a:hover{
     color: #17678a;
 }
-
-
 .logo{
     height: 70px;
 }
@@ -114,8 +109,6 @@ input{
 .main .active:hover{
     background-color: rgba(255, 255, 255, 0.1);
 }
-
-
 .detail{
     margin-top: 35px;
     display: flex;
