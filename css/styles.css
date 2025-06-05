@@ -6,7 +6,7 @@
 
 body{
     font-family: "Bree Serif", serif;
-    background-color: #cacaca;
+    background-color: #eeeeee;
 }
 input{
     font-family: inherit;
@@ -121,7 +121,7 @@ input{
     display: flex;
     width: 80%;
     min-height: 100px;
-    background-color: #cacaca;
+    background-color: #eeeeee;
     margin-left:auto;
     margin-right:auto;
     gap:30px;
@@ -132,7 +132,7 @@ input{
     flex-direction: column;
     width:70%;
     height: 100%;
-    background-color:cacaca;
+    background-color:#eeeeee;
     row-gap: 20px;
 }
 
@@ -288,7 +288,7 @@ input{
     padding-top: 20px;
     width: 80%;
     height: 100px;
-    background-color:  #cacaca;
+    background-color: #eeeeee;
     margin: auto;
 }
 
